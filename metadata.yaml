@@ -1,0 +1,31 @@
+_repo: ClerambaultThe-Story-of-an-Independent-Spirit-During-the-War_10868
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia: http://en.wikipedia.org/wiki/Romain_Rolland
+description: "Clérambault is a 1920 novel by the Nobel Prize-winning French author\
+  \ Romain Rolland. It concerns a father's personal outcry against the militarism\
+  \ of the First World War, after his son dies in combat.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10868'
+  wikidata: Q5137296
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- GITenberg
+title: 'Clerambault: The Story of an Independent Spirit During the War'
+url: http://www.gutenberg.org/ebooks/10868
+wikipedia:
+- https://en.wikipedia.org/wiki/Cl%C3%A9rambault_(novel)
